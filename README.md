@@ -25,4 +25,15 @@ Script has 4 options:
 ![bash5](https://user-images.githubusercontent.com/20625004/133621464-88818f58-0e50-40f5-9b82-ab320015212f.PNG)
 
 
-Tested on Ubuntu OS.
+## Usage
+
+**Open the terminal and enter the below command to change permissions on the script.**
+
+```chmod +x Bash_Base64.sh```
+
+Execute ```./Bash_Base64.sh```
+
+
+## Testing
+
+**Tested on _Ubuntu OS_**
