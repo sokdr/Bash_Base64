@@ -9,7 +9,7 @@ Script has 4 options:
 3) Encode lines of a txt file.
 4) Decode lines of a txt file.
 
-
+## Options
 
 ![bash1](https://user-images.githubusercontent.com/20625004/133621430-39eb4d77-5c36-42ca-b3cd-e19cc14427bc.PNG)
 
