@@ -6,8 +6,8 @@ Script has 4 options:
 
 1) Encode to Base64.
 2) Decode from Base64.
-3) Encode lines of a txt file.
-4) Decode lines of a txt file.
+3) Encode strings from a txt file.
+4) Decode Base64 encoding from a txt file.
 
 ## Options
 
